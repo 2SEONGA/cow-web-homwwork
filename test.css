@@ -1,0 +1,25 @@
+#name{
+font-size: small;    
+color: blue;
+background-color: black;
+}
+#head{
+background-color: beige;
+}
+#article{
+background-color: firebrick;
+width: 700px;
+height: 1000px;
+text-align: center;
+}
+#footer{
+background-color: blueviolet;
+}
+#child{
+background-color: azure;
+color: black;
+text-align: left;
+margin: 10px;
+padding: 40%;
+margin-bottom: 40px;   
+}
