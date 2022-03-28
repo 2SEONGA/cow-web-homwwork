@@ -1,0 +1,31 @@
+#h_name{
+    font-size: xx-large;
+    color:black
+}
+#h_line{
+    font-size: x-small;
+    color: black;
+}
+#define_contents{
+    font: size 50px;
+    color: black;
+    text-align: left;
+}
+#list{
+    text-align: right;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+#term_contents{
+    font: size 50px;
+    color: black;
+    text-align: left;
+}
+#define{
+font-size: 250px;
+}
+#term{
+font-size: 250px;
+}
