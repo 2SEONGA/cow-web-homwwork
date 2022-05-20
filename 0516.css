@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font: "Nanum Gothic";
+    font-size: 20px;
+}
+
+a{
+    
+    text-decoration: none;
+    color: white;   
+}
+
+li{
+    list-style: none;
+}
+
+#title{
+    font-size: 20px;
+    text-align: left;
+}
+
+#COW_headline{
+    background-color: navy;
+}
+
+#cow_on_web_menu {
+    width: 1000px;
+    height: 30px;
+}
+
+#cow_on_web_menu ul li{
+
+    float: left;
+    width: 10%;
+    height: 30%;
+    line-height: 30px;
+    text-align: center;
+    background-color: #navy;
+
+}
+#instagram{
+    padding: 30px;
+}
+
+#facebook{
+    padding: 5px;
+}
+
+.fa-solid fa-cow{
+    color: orange;
+}
+
+.fa-brands fa-instagram{
+    color: white;
+}
+
+.fa-brands fa-facebook-square{
+    color: white;
+}
